@@ -1,3 +1,7 @@
+
+% Copyright(c) 2020, Filmon Yacob.
+% Distributed under the MIT License
+
 %%% Predicts part quality considering locating surfaces and machining error%%%
 
 clear; clc; close all;
